@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hi <img src="https://github.com/jakaria9001/jakaria9001/blob/main/Hi.gif" width="29px">, I'm [Jakaria Hussain!](https://jakaria9001.github.io) 
  <!-- https://twitter.com/Jakaria16264561/photo -->
  
- ![Twitter Follow](https://img.shields.io/twitter/follow/jakaria_hussn?style=social)
+ <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/jakaria_hussn?style=social -->
 
 <img align="right" src="https://github.com/jakaria9001/jakaria9001/blob/main/developer.gif" alt="Coder GIF" width="400" height="400">
 
