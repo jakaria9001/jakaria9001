@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/jakaria_hussn?style=social -->
 
 <img align="right" src="https://github.com/jakaria9001/jakaria9001/blob/main/developer.gif" alt="Coder GIF" width="400" height="400">
-
+<br>
 
  
 <a href="https://twitter.com/jakaria_hussn">
