@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://devfolio.co/@jakaria9001">
   <img align="left" alt="Jakar's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
+</a>
+
+<a href="https://dev.to/jakaria9001">
+  <img align="left" width="26px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jakaria's DEV Profile">
 </a><br><br>
 
 
