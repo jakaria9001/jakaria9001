@@ -4,7 +4,7 @@
  
  <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/jakaria_hussn?style=social -->
 
-<img align="right" src="https://github.com/jakaria9001/jakaria9001/blob/main/developer.gif" alt="Coder GIF" width="320" height="450">
+<img align="right" src="https://github.com/jakaria9001/jakaria9001/blob/main/developer.gif" alt="Coder GIF" width="320" height="420">
 
 <h3 align="left">Connect with me:</h3> 
 <a href="https://twitter.com/jakaria_hussn" target="_blank">
