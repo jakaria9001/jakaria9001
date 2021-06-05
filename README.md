@@ -25,27 +25,27 @@
 </a><br><br>
 
 
-:telescope: Soy estudiante de informática. 💻; <a href="https://www.deepl.com/translator#es/en/soy%20estudiante%20de%20informatica." target="_blank"> Translate </a> <br>
+:telescope: Soy estudiante de informática. 💻; <a href="https://www.deepl.com/translator#es/en/soy%20estudiante%20de%20informatica." target="_blank"> Translate </a>;<br>
 :hourglass_flowing_sand: &nbsp;Enthusiastic about software development; <br>
 💬 I love connecting with strangers so do send me a <b>"hi"</b> <a href="https://www.linkedin.com/in/hussain-9001/" target="_blank"> here </a>; <br>
 📫 How to reach me: <a href="mailto:jakariahussain9001@gmail.com" target="_blank">email me</a>; <br>
-😄 Pronouns: He/Him <br>
-⚡ Fun fact: More people have mobile phones than toilets. <a href="https://scope.ie/fun-and-interesting-facts-about-technology/" target="_blank">More.</a>
+😄 Pronouns: He/Him; <br>
+⚡ Fun fact: More people have mobile phones than toilets. <a href="https://scope.ie/fun-and-interesting-facts-about-technology/" target="_blank">More</a>;
 
 
 ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Data%20Analysis-%7C-yellowgreen) ![](https://img.shields.io/badge/MySQL-%7C-orange) ![](https://img.shields.io/badge/MEAN-%7C-blue)<a href="https://github.com/jakaria9001">
 
- <br>
+<br>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=jakaria9001&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 <!-- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria9001&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /> -->
  
- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 	<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
 	<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="P" width="40" height="40" /> </a>
+	<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="P" width="40" height="40" /> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
 	<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
