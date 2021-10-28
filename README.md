@@ -30,15 +30,13 @@
 💬 I love connecting with strangers so do send me a <b>"hi"</b> <a href="https://www.linkedin.com/in/hussain-9001/" target="_blank"> here </a>; <br>
 📫 How to reach me: <a href="mailto:jakariahussain9001@gmail.com" target="_blank">email me</a>; <br>
 😄 Pronouns: He/Him; <br>
-⚡ Fun fact: More people have mobile phones than toilets. <a href="https://scope.ie/fun-and-interesting-facts-about-technology/" target="_blank">More</a>;
+⚡ Fun fact: Inheritence is the Object Oriented way to become wealthy. <a href="https://www.hongkiat.com/blog/programming-jokes/" target="_blank">More</a>;
 
 
 ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C++-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Data%20Analysis-%7C-yellowgreen) ![](https://img.shields.io/badge/MySQL-%7C-orange) ![](https://img.shields.io/badge/MEAN-%7C-blue)<a href="https://github.com/jakaria9001">
 
 <br>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=jakaria9001&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<!-- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria9001&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /> -->
- 
+	
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
@@ -52,7 +50,10 @@
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
+	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>	
+<!-- 	<a href="https://www.photoshop.com/en" target="_blank"> <img align="" height='130px' width='500px' src="https://github-readme-streak-stats.herokuapp.com/?user=jakaria9001&theme=nightowl&hide_border=true&fire=DD2727" alt="jakaria9001" /> </a> -->
 </p>
-
-
+<p>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jakaria9001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=jakaria9001&theme=nightowl&hide_border=true&fire=DD2727" alt="jakaria9001"/>
+</p>
