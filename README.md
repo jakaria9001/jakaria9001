@@ -16,10 +16,11 @@
 <a href="https://www.instagram.com/jak_a_ria_/">
   <img align="left" alt="Jakaria Hussain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<!--
 <a href="https://devfolio.co/@jakaria9001">
   <img align="left" alt="Jakaria Hussain | Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
 </a>
-
+-->
 <a href="https://dev.to/jakaria9001">
   <img align="left"  alt="Jakaria Hussain | DEV " width="26px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg">
 </a><br><br>
