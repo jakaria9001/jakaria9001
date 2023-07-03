@@ -27,7 +27,7 @@
 
 
 :telescope: Soy estudiante de informática. 💻; <a href="https://www.deepl.com/translator#es/en/soy%20estudiante%20de%20informatica." target="_blank"> Translate </a>;<br>
-:hourglass_flowing_sand: &nbsp;Enthusiastic about software development; <br>
+:hourglass_flowing_sand: &nbsp;Software Engineer at Microsoft; <br>
 💬 I love connecting with strangers so do send me a <b>"hi"</b> <a href="https://www.linkedin.com/in/hussain-9001/" target="_blank"> here </a>; <br>
 📫 How to reach me: <a href="mailto:jakariahussain9001@gmail.com" target="_blank">email me</a>; <br>
 😄 Pronouns: He/Him; <br>
